@@ -1,0 +1,15 @@
+C:\Users\Tom\source\repos\Game of Life\Game of Life\bin\Debug\Game of Life.exe.config
+C:\Users\Tom\source\repos\Game of Life\Game of Life\bin\Debug\Game of Life.exe
+C:\Users\Tom\source\repos\Game of Life\Game of Life\bin\Debug\Game of Life.pdb
+C:\Users\Tom\source\repos\Game of Life\Game of Life\obj\Debug\Game of Life.csprojResolveAssemblyReference.cache
+C:\Users\Tom\source\repos\Game of Life\Game of Life\obj\Debug\MainWindow.g.cs
+C:\Users\Tom\source\repos\Game of Life\Game of Life\obj\Debug\App.g.cs
+C:\Users\Tom\source\repos\Game of Life\Game of Life\obj\Debug\Game of Life_MarkupCompile.cache
+C:\Users\Tom\source\repos\Game of Life\Game of Life\obj\Debug\Game of Life_MarkupCompile.lref
+C:\Users\Tom\source\repos\Game of Life\Game of Life\obj\Debug\MainWindow.baml
+C:\Users\Tom\source\repos\Game of Life\Game of Life\obj\Debug\Game of Life.g.resources
+C:\Users\Tom\source\repos\Game of Life\Game of Life\obj\Debug\Game_of_Life.Properties.Resources.resources
+C:\Users\Tom\source\repos\Game of Life\Game of Life\obj\Debug\Game of Life.csproj.GenerateResource.Cache
+C:\Users\Tom\source\repos\Game of Life\Game of Life\obj\Debug\Game of Life.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\Game of Life\Game of Life\obj\Debug\Game of Life.exe
+C:\Users\Tom\source\repos\Game of Life\Game of Life\obj\Debug\Game of Life.pdb
